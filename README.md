@@ -22,3 +22,11 @@ Add necessary path from windows (Ex: `/mnt/c/adb`) to Wsl 2 local PATH.
 Use the aliases available in `~/.bashrc` file for `GUI ADB` and `ADB` 
 
 > More info at this link: https://www.youtube.com/watch?v=HAJaNuFIvnU
+
+## Commands
+```
+adb start-server
+adb kill-server
+adb shell
+gui
+```
