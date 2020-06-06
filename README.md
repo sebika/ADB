@@ -1,5 +1,5 @@
 # Android Debug Bridge
-A way to use your Android directly from terminal.
+A way to use your Android device directly from terminal.
 
 ## Install steps
 > Step 1
